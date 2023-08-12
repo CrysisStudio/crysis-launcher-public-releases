@@ -1,0 +1,26 @@
+type = menu
+
+customization-meta {
+  identifier = %fancymenu:universal_layout%
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  name = onlyup_269aeac93a324126
+  x = 0
+  width = 853
+  actionid = dafea43b-93e1-45f4-92fe-2fe2d380aeab1691625958729
+  action = addanimation
+  y = 6
+  height = 473
+}
+
