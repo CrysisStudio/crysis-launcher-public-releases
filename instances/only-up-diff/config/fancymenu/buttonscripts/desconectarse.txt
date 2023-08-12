@@ -1,2 +1,0 @@
-mimicbutton:net.minecraft.client.gui.screen.IngameMenuScreen:button_compatibility_id:mc_pausescreen_disconnect_button
-opengui:net.minecraft.client.gui.screen.MainMenuScreen
